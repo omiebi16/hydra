@@ -1,3 +1,4 @@
+![Screenshot_2025-07-12-18-09-59-458_com whatsapp](https://github.com/user-attachments/assets/7ab0e8d3-8afa-4bfe-a77c-e2a52de8039e)
 ---
 id: intro
 title: Getting started
